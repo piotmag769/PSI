@@ -1,1 +1,4 @@
-lab*/.ipynb_checkpoints
+*
+!.gitignore
+!*.ipynb
+!*Readme.md
