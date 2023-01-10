@@ -1,4 +1,4 @@
 *
 !.gitignore
-!**.ipynb
+!**/*.ipynb
 !*Readme.md
