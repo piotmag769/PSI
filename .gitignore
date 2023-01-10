@@ -1,4 +1,6 @@
 *
 !.gitignore
-!**/*.ipynb
-!*Readme.md
+!*/
+lab5/poquad
+!*/*.ipynb
+!**/Readme.md
